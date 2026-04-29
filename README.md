@@ -31,7 +31,7 @@ I am a programming student focused on building solid web experiences, with a str
 - Building cleaner and more responsive web interfaces
 - Looking for web projects where I can contribute and keep growing
 
-## Tech Stack
+## Tech Stack & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
