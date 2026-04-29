@@ -63,5 +63,5 @@ Projects will be added here as I keep building and improving my portfolio.
 
 ## Connect
 
-- LinkedIn: [Nicol�s Lofredo](https://www.linkedin.com/in/nicol%C3%A1s-lofredo-0a53a9368)
+- LinkedIn: [Nicolás Lofredo](https://www.linkedin.com/in/nicol%C3%A1s-lofredo-0a53a9368)
 - Rydcer: [www.rydcer.com](https://www.rydcer.com)
