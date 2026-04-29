@@ -11,8 +11,9 @@ I am a programming student focused on building solid web experiences, with a str
   <a href="https://www.linkedin.com/in/nicol%C3%A1s-lofredo-0a53a9368" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  
   <a href="https://www.rydcer.com" target="_blank">
-    <img src="https://img.shields.io/badge/Rydcer-Visit%20Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Rydcer Website" />
+    <img src="https://img.shields.io/badge/Rydcer-Visit%20Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Rydcer-Website" />
   </a>
 </p>
 
