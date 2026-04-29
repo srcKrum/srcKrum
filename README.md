@@ -7,13 +7,13 @@ Current mission: front-end mastery + back-end growth
 
 I am a programming student focused on building solid web experiences, with a strong front-end base and a growing back-end skill set.
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/nicol%C3%A1s-lofredo-0a53a9368" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.rydcer.com" target="_blank">
-    <img src="https://img.shields.io/badge/Rydcer-Visit%20Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Rydcer-Website" />
+    <img src="https://img.shields.io/badge/Rydcer-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Rydcer" />
   </a>
 </p>
 
